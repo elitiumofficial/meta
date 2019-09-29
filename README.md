@@ -3,5 +3,10 @@
 # Meta Repository for General Elitium Project<br>
 <br>
 
+- EUM
+- EUMS
+- EUMI
+- EUMX
+
 <p align="center">For more information<br>
 https://www.elitium.io</p>
