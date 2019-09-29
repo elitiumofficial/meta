@@ -6,7 +6,8 @@
 - EUM
 - EUMS
 - EUMI
-- EUMX
+- EUMX<br>
+<br>
 
 <p align="center">For more information<br>
 https://www.elitium.io</p>
