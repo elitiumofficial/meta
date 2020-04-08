@@ -9,5 +9,8 @@
 - EUMX - Elitium Rewards<br>
 <br>
 
+<br>
+<br>
+
 <p align="center">For more information<br>
 https://www.elitium.io</p>
