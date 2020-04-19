@@ -3,12 +3,6 @@
 # Meta Repository for General Elitium Project<br>
 <br>
 
-- EUM - Elitium Token
-- EUMS - Elitium Staking
-- EUMI - Elitium Inssurance
-- EUMX - Elitium Rewards<br>
-<br>
-
 <br>
 <br>
 
